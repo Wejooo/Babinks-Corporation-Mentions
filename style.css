@@ -48,6 +48,13 @@ body {
   border: 1px solid #563d7c;
 }
 
+
+/***************** CONTACT ******************/
+pre
+{
+    box-shadow: 6px 6px 6px black inset;
+}
+
 /***************** CONTACT ******************/
 .contact {
   text-align: center;
