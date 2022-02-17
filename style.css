@@ -50,9 +50,16 @@ body {
 
 
 /***************** CONTACT ******************/
-.pre
-{
-    box-shadow: 6px 6px 6px black inset;
+.mention .clntotal{
+    display: flex;
+    justify-content: center;
+    
+}
+.mention .cln1{
+    margin-right: 50px;
+}
+.mention .cln2{
+    margin-left: 50px;
 }
 
 /***************** CONTACT ******************/
